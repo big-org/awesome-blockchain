@@ -2,7 +2,7 @@
 
 [![Awesome][awesome_svg_label]][awesome_link]
 
-# Videos
+#### Videos
 
 - [How Bitcoin is Changing the World][how_btc_changing_world]
 
